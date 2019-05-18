@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "lookatloops",
+      "tensorShape": [
+        50,
+        4900
+      ],
+      "tensorPath": "https://github.com/RichardGeoghegan/tensorflow/tree/master/flatten_1k.tsv",
+      "metadataPath": "https://github.com/RichardGeoghegan/tensorflow/tree/master/flatten_1k_labels.tsv",
+      "sprite": {
+        "imagePath": "https://github.com/RichardGeoghegan/tensorflow/tree/master/flatten_1k.png",
+        "singleImageDim": [
+          70,
+          70
+        ]
+      }
+    }
+  ]
+}
